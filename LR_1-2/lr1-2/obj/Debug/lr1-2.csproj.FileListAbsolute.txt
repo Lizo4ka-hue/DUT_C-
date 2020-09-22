@@ -1,0 +1,7 @@
+C:\Alice\трупное подземелье\Дутуляндия\С#\LR_1-2\lr1-2\obj\Debug\lr1-2.csprojAssemblyReference.cache
+C:\Alice\трупное подземелье\Дутуляндия\С#\LR_1-2\lr1-2\obj\Debug\lr1-2.csproj.CoreCompileInputs.cache
+C:\Alice\трупное подземелье\Дутуляндия\С#\LR_1-2\lr1-2\bin\Debug\lr1-2.exe.config
+C:\Alice\трупное подземелье\Дутуляндия\С#\LR_1-2\lr1-2\bin\Debug\lr1-2.exe
+C:\Alice\трупное подземелье\Дутуляндия\С#\LR_1-2\lr1-2\bin\Debug\lr1-2.pdb
+C:\Alice\трупное подземелье\Дутуляндия\С#\LR_1-2\lr1-2\obj\Debug\lr1-2.exe
+C:\Alice\трупное подземелье\Дутуляндия\С#\LR_1-2\lr1-2\obj\Debug\lr1-2.pdb

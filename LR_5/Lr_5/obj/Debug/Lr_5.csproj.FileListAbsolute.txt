@@ -1,0 +1,7 @@
+C:\Alice\трупное подземелье\Дутуляндия\С#\LR_5\Lr_5\bin\Debug\Lr_5.exe.config
+C:\Alice\трупное подземелье\Дутуляндия\С#\LR_5\Lr_5\bin\Debug\Lr_5.exe
+C:\Alice\трупное подземелье\Дутуляндия\С#\LR_5\Lr_5\bin\Debug\Lr_5.pdb
+C:\Alice\трупное подземелье\Дутуляндия\С#\LR_5\Lr_5\obj\Debug\Lr_5.csprojAssemblyReference.cache
+C:\Alice\трупное подземелье\Дутуляндия\С#\LR_5\Lr_5\obj\Debug\Lr_5.csproj.CoreCompileInputs.cache
+C:\Alice\трупное подземелье\Дутуляндия\С#\LR_5\Lr_5\obj\Debug\Lr_5.exe
+C:\Alice\трупное подземелье\Дутуляндия\С#\LR_5\Lr_5\obj\Debug\Lr_5.pdb
