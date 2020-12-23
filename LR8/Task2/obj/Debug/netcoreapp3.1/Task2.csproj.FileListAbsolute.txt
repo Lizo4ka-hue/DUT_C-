@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\sharp\LR8\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+C:\Users\LENOVO\Desktop\sharp\LR8\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\Users\LENOVO\Desktop\sharp\LR8\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+C:\Users\LENOVO\Desktop\sharp\LR8\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\sharp\LR8\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Users\LENOVO\Desktop\sharp\LR8\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\LENOVO\Desktop\sharp\LR8\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\sharp\LR8\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\sharp\LR8\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\sharp\LR8\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\sharp\LR8\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+C:\Users\LENOVO\Desktop\sharp\LR8\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\LENOVO\Desktop\sharp\LR8\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
